@@ -1,4 +1,3 @@
 - 👋 Ola Eu Sou Marcelo 
 - 👀 Gosto desta liguagens Go, Dart, Lua
 - 🌱 Estou aprendedno python e rust
-- 📫 [Gmail](marceloaugustonegredo@gmail.com)

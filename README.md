@@ -1,3 +1,3 @@
 - 👋 Ola Eu Sou Marcelo 
 - 👀 Gosto dessas liguagens Go, Dart, Lua
-- 🌱 Estou aprendendo python e rust
+- 🌱 Estou aprendendo Python e Rust
